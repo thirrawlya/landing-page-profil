@@ -24,7 +24,7 @@ Gua masih belajar dan ngulik-ngulik sendiri, jadi ini lebih ke arah eksplorasi d
 
 ---
 
-## 📷 Preview (Optional)
+## 📷 Preview 
 ![Preview](Screenshot.png)
 
 
