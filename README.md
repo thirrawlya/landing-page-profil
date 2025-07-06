@@ -25,7 +25,8 @@ Gua masih belajar dan ngulik-ngulik sendiri, jadi ini lebih ke arah eksplorasi d
 ---
 
 ## 📷 Preview (Optional)
-Kalau ada screenshot halaman web-nya, bisa taruh di sini.
+![Preview](screenshot.png)
+
 
 ---
 
